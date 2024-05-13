@@ -3,7 +3,7 @@
 
 
 ### Hi there, I am Naresh Upadhyay👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naresy/)](https://www.linkedin.com/in/naresy/)
+[![Linkedin Badge](https://img.shields.io/badge/-naresy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naresy/)](https://www.linkedin.com/in/naresy/)
 [![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info.naresh74@gmail.com)](mailto:info.naresh74@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://nareshupadhyay.com.np/)
