@@ -3,8 +3,8 @@
 
 
 ### Hi there, I am Naresh Upadhyay👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/naresy/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:info.naresh74@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naresy/)](https://www.linkedin.com/in/naresy/)
+[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info.naresh74@gmail.com)](mailto:info.naresh74@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://nareshupadhyay.com.np/)
 - 🎉 Fun fact: Debugging is like trying to find a needle in a haystack, but you're the needle and the haystack is on fire! 🔥🧵
