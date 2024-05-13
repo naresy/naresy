@@ -8,7 +8,7 @@
 
 
 - 🎯 Portfolio website: [Portfolio](https://nareshupadhyay.com.np/)
-- 🎉 Fun fact:  🔥🧵
+- 🎉 Fun fact:Fun Fact: Debugging is like trying to find a needle in a haystack, but you're the needle, and the haystack is on fire!🔥🧵
 
 💻 **Things I love**
 - Data  Endineering <img src="https://www.google.com/search?sca_esv=b99a51cc48654f1f&sca_upv=1&sxsrf=ADLYWIIbYotp-3VbQqd8DRS-u1nHf-hcsg:1715640979584&q=data+engineering+gif+image&uds=ADvngMgnLtab67BCK1yYO0azqoQLkYHOJXBq-Mihu3Gnra2vcLnT4oVZdZQp9SlDMO028pC_0o10Ghdikf5rLOKrvgDvn_2qLqDeAnkkoU-UICIVECAaaGMEb4lHv9S6ra6vQn212LsifvFTJlntuZtLPfedKrbrGUEkJEIxin2nb9MFvy1VTB8DbMRoLYOv3TOAano-pCttFR3x77zCkZAnlKi3skurUPbabgyqri4rt0JRl1tKZzG5MKSVoNDwCvKyRkSfiUdV5Dn1_CwOfnB4qcYcr5dsq_bCk1B97CM-ZqI5A1I5YObAVdXOla9vPiGIu5_JK68ZT1XNjF-clnKQsQMF1zv1qg&udm=2&prmd=ivnbmtz&sa=X&ved=2ahUKEwirvZnZ3IuGAxXdIUQIHZmwBsUQtKgLegQIERAB&biw=1440&bih=710&dpr=2#vhid=b3t-ksp9JlX8wM&vssid=mosaic" width="40"> 😬
