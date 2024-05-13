@@ -1,43 +1,39 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/naresy/naresy/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
 
-### Hi there, I am Prerak Raja 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
+### Hi there, I am Naresh Upadhyay👋
+[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/naresy/)
+[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:info.naresh74@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+- 🎯 Portfolio website: [Portfolio](https://nareshupadhyay.com.np/)
+- 🎉 Fun fact: Debugging is like trying to find a needle in a haystack, but you're the needle and the haystack is on fire! 🔥🧵
 
 💻 **Things I love**
+- Data  Endineering <img src="https://www.google.com/search?sca_esv=b99a51cc48654f1f&sca_upv=1&sxsrf=ADLYWIIbYotp-3VbQqd8DRS-u1nHf-hcsg:1715640979584&q=data+engineering+gif+image&uds=ADvngMgnLtab67BCK1yYO0azqoQLkYHOJXBq-Mihu3Gnra2vcLnT4oVZdZQp9SlDMO028pC_0o10Ghdikf5rLOKrvgDvn_2qLqDeAnkkoU-UICIVECAaaGMEb4lHv9S6ra6vQn212LsifvFTJlntuZtLPfedKrbrGUEkJEIxin2nb9MFvy1VTB8DbMRoLYOv3TOAano-pCttFR3x77zCkZAnlKi3skurUPbabgyqri4rt0JRl1tKZzG5MKSVoNDwCvKyRkSfiUdV5Dn1_CwOfnB4qcYcr5dsq_bCk1B97CM-ZqI5A1I5YObAVdXOla9vPiGIu5_JK68ZT1XNjF-clnKQsQMF1zv1qg&udm=2&prmd=ivnbmtz&sa=X&ved=2ahUKEwirvZnZ3IuGAxXdIUQIHZmwBsUQtKgLegQIERAB&biw=1440&bih=710&dpr=2#vhid=b3t-ksp9JlX8wM&vssid=mosaic" width="40"> 😬
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
 - Machine Learning 🧐
-- Data Science 😬
+- Database Development ✍️
+
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=naresy&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
 🛠**Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000000?style=flat&logo=apache-spark)
+![Hadoop](https://img.shields.io/badge/-Hadoop-000000?style=flat&logo=hadoop)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000000?style=flat&logo=apache-kafka)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=flat&logo=nosql)
+![Airflow](https://img.shields.io/badge/-Airflow-000000?style=flat&logo=apache-airflow)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
-
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=flat-square&logo=google-cloud)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat-square&logo=microsoft-azure)
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
