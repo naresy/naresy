@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/naresy/naresy/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/naresy/naresy/blob/master/developer.gif" alt="Coder GIF" width="20" height="20">
 
 
 
