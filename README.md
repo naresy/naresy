@@ -1,15 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=naresy&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
-### About Me:    
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
-
-Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
-       
-   
-### Social media: 📡    
-Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
+### Hi there, I am Naresh Upadhyay👋
+[![Linkedin Badge](https://img.shields.io/badge/-naresy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naresy/)](https://www.linkedin.com/in/naresy/)
+[![Email Badge](https://img.shields.io/badge/-info.naresh74%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info.naresh74@gmail.com)](mailto:info.naresh74@gmail.com)
 
 ## Competitions: 🥇
  
