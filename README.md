@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-naresy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naresy/)](https://www.linkedin.com/in/naresy/)
 [![Email Badge](https://img.shields.io/badge/-info.naresh74%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info.naresh74@gmail.com)](mailto:info.naresh74@gmail.com)
 
- 🎯 Portfolio website: [Portfolio](https://nareshupadhyay.com.np/)
+ 🎯 Portfolio website: [Portfolio](https://nareshupadhyay.com/)
 - 🎉 Fun fact: Debugging is like trying to find a needle in a haystack, but you're the needle, and the haystack is on fire!🔥🧵
 
 💻 **Things I love**
