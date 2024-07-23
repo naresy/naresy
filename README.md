@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/naresy/naresy/blob/main/developer.gif" alt="Coder GIF" width="400" height="350">
 [![trophy](https://github-profile-trophy.vercel.app/?username=naresy&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### Hi there, I am Naresh Upadhyay👋
