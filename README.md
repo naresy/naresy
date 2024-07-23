@@ -8,6 +8,13 @@
  🎯 Portfolio website: [Portfolio](https://nareshupadhyay.com.np/)
 - 🎉 Fun fact: Debugging is like trying to find a needle in a haystack, but you're the needle, and the haystack is on fire!🔥🧵
 
+💻 **Things I love**
+- Data Engineering 😬
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Backend Development ✍️
+- Machine Learning 🧐
+- Database Development ✍️
+
 ## Languages and Tools 
 <div>
 
