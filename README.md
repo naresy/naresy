@@ -15,6 +15,20 @@
 - Machine Learning 🧐
 - Database Development ✍️
 
+🛠**Tech Stack**
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000000?style=flat&logo=apache-spark)
+![Hadoop](https://img.shields.io/badge/-Hadoop-000000?style=flat&logo=hadoop)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000000?style=flat&logo=apache-kafka)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=flat&logo=nosql)
+![Airflow](https://img.shields.io/badge/-Airflow-000000?style=flat&logo=apache-airflow)
+
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=flat-square&logo=google-cloud)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat-square&logo=microsoft-azure)
+
 ## Languages and Tools 
 <div>
 
