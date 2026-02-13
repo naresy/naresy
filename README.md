@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi, I'm Naresh Upadhyay
+# Hi, I'm Naresh Upadhyay
 
-### 💾 Data Engineer | 🔧 Backend Developer | 📱 Mobile App Enthusiast
+### Data Engineer | Backend Developer | Mobile App Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nareshupadhyay.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nareshupadhyay.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naresy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresy/)
@@ -14,37 +14,37 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 ```dart
 class NareshUpadhyay extends Developer {
-  // 👨‍💻 Professional Identity
+  // Professional Identity
   final String role = "Data Engineer";
   final List<String> passions = [
     "Backend Development 🔧",
-    "Mobile App Development 📱",
-    "Data Engineering & Analytics 📊",
+    "Mobile App Development ",
+    "Data Engineering & Analytics",
   ];
   
-  // 🎯 Core Expertise
+  // Core Expertise
   Map<String, List<String>> expertise = {
-    'dataEngineering': ['Apache Spark', 'Hadoop', 'Airflow', 'Kafka'],
+    'dataEngineering': ['Dataflow', 'Composer', 'Airflow', 'Pub/Sub'],
     'backend': ['Python', 'Node.js', 'RESTful APIs', 'Microservices'],
     'mobile': ['Flutter', 'Dart', 'Cross-platform Apps', 'UI/UX Design'],
     'databases': ['MySQL', 'PostgreSQL', 'NoSQL', 'SQLite'],
   };
   
-  // 🚀 What Drives Me
+  // What Drives Me
   String myMotto() => 
-    "Data Engineer by profession, Backend & Mobile Developer by passion! 🔥";
+    "Data Engineer by profession, Backend & Mobile Developer by passion!";
   
   String currentFocus() => 
     "Building scalable data pipelines while crafting beautiful mobile experiences";
   
   String funFact() => 
-    "I debug data pipelines in the morning and UI bugs at night - Sleep is optional! ☕️💻";
+    "I debug data pipelines in the morning and UI bugs at night - Sleep is optional!";
   
-  // 💡 Philosophy
+  // Philosophy
   bool believesIn(String principle) {
     final principles = [
       'Clean Code',
@@ -59,9 +59,9 @@ class NareshUpadhyay extends Developer {
 
 <div align="center">
 
-### 🌟 The Perfect Blend
+### The Perfect Blend
 
-**Data Engineering** × **Backend Development** × **Mobile Apps** = **Full Stack Impact** 🚀
+**Data Engineering** × **Backend Development** × **Mobile Apps** = **Full Stack Impact**
 
 *"I transform data into insights during the day, and ideas into apps during the night"*
 
@@ -114,7 +114,7 @@ class NareshUpadhyay extends Developer {
 
 ---
 
-## 📊 GitHub Stats
+##GitHub Stats
 
 <div align="center">
   
@@ -127,7 +127,7 @@ class NareshUpadhyay extends Developer {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   
@@ -137,7 +137,7 @@ class NareshUpadhyay extends Developer {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -147,23 +147,23 @@ class NareshUpadhyay extends Developer {
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```yaml
 Primary Role:
-  - 📊 Building scalable data pipelines and ETL processes
-  - 🔄 Working with Apache Spark, Kafka, and Airflow
-  - 💾 Designing efficient data architectures and warehouses
+  -  Building scalable data pipelines and ETL processes
+  -  Working with Apache Spark, Kafka, and Airflow
+  -  Designing efficient data architectures and warehouses
   
 Side Passions:
-  - 🔧 Developing robust backend APIs and microservices
-  - 📱 Creating beautiful cross-platform mobile apps with Flutter
-  - 🎨 Exploring the intersection of data and user experience
+  -  Developing robust backend APIs and microservices
+  -  Creating beautiful cross-platform mobile apps with Flutter
+  -  Exploring the intersection of data and user experience
   
 Currently Learning:
-  - 🚀 Advanced stream processing with Kafka
-  - ☁️ Cloud-native data engineering on AWS/GCP
-  - 🎯 Flutter state management patterns (BLoC, Riverpod)
+  - Advanced stream processing with Kafka
+  - Cloud-native data engineering on AWS/GCP
+  - Flutter state management patterns (BLoC, Riverpod)
   
 Philosophy:
   - "Data powers decisions, Backend enables scale, Mobile delivers experience" 💡
@@ -171,22 +171,22 @@ Philosophy:
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 📊 **Data Pipeline Pro** | Real-time ETL pipeline processing millions of records | Spark, Kafka, Airflow, AWS |
-| 🔧 **API Gateway Suite** | Scalable microservices backend architecture | Node.js, Python, Docker, Redis |
-| 📱 **Flutter Finance App** | Beautiful mobile app for financial tracking | Flutter, Firebase, Bloc |
-| 💾 **Data Warehouse Builder** | Automated data warehouse with analytics | PostgreSQL, Python, dbt |
+| **Data Pipeline Pro** | Real-time ETL pipeline processing millions of records | Spark, Kafka, Airflow, AWS |
+| **API Gateway Suite** | Scalable microservices backend architecture | Node.js, Python, Docker, Redis |
+| **Flutter Finance App** | Beautiful mobile app for financial tracking | Flutter, Firebase, Bloc |
+| **Data Warehouse Builder** | Automated data warehouse with analytics | PostgreSQL, Python, dbt |
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -202,11 +202,11 @@ Whether it's discussing data pipelines, backend architectures, or mobile app dev
 
 <div align="center">
   
-### 💭 Random Dev Quote
+###  Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 👀 Profile Views
+### Profile Views
 
 ![](https://komarev.com/ghpvc/?username=naresy&style=for-the-badge&color=blueviolet)
 
@@ -216,7 +216,7 @@ Whether it's discussing data pipelines, backend architectures, or mobile app dev
 
 <div align="center">
   
-**⭐️ From [naresy](https://github.com/naresy) with ❤️**
+** From [naresy](https://github.com/naresy) with **
 
 *"Code is like humor. When you have to explain it, it's bad!"* 😄
 
