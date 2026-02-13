@@ -1,101 +1,161 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=naresy&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<img align="right" src="https://github.com/naresy/naresy/blob/main/developer.gif" alt="Coder GIF" width="400" height="350">
+<div align="center">
   
-### Hi there, I am Naresh Upadhyay👋
-[![Linkedin Badge](https://img.shields.io/badge/-naresy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naresy/)](https://www.linkedin.com/in/naresy/)
-[![Email Badge](https://img.shields.io/badge/-info.naresh74%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info.naresh74@gmail.com)](mailto:info.naresh74@gmail.com)
+# 👋 Hi, I'm Naresh Upadhyay
 
- 🎯 Portfolio website: [Portfolio](https://nareshupadhyay.com/)
-- 🎉 Fun fact: Debugging is like trying to find a needle in a haystack, but you're the needle, and the haystack is on fire!🔥🧵
+### 🚀 Mobile App Developer | Flutter Enthusiast | UI/UX Designer
 
-💻 **Things I love**
-- Data Engineering 😬
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
-- Machine Learning 🧐
-- Database Development ✍️
+[![Portfolio](https://img.shields.io/badge/Portfolio-nareshupadhyay.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nareshupadhyay.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-naresy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresy/)
+[![Email](https://img.shields.io/badge/Email-info.naresh74%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.naresh74@gmail.com)
 
-🛠**Tech Stack**
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000000?style=flat&logo=apache-spark)
-![Hadoop](https://img.shields.io/badge/-Hadoop-000000?style=flat&logo=hadoop)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000000?style=flat&logo=apache-kafka)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
-![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=flat&logo=nosql)
-![Airflow](https://img.shields.io/badge/-Airflow-000000?style=flat&logo=apache-airflow)
-
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=flat-square&logo=google-cloud)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat-square&logo=microsoft-azure)
-
-## Languages and Tools 
-<div>
-
-### Languages:
-| Python3 | C | JS | 
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | 
-
-  
-
-### Best frameworks and main libraries for Python3:
-
-| Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV |
-|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
-
-
-
-### My tools for Data Manipulation & Visualisation:
-
-| Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Plotly | Matpltlib |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
-
-  
-### Environments, Testing, Other:
-
-| Nodejs | Git | Docker | Pytest | Swagger | Postman | 
-|----------|----------|----------|----------|----------|---------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|
-
-
-### OS:
-
-| Linux | Ubuntu | Kali |Window|Mac|
-|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Window" alt="Window" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" alt="Mac" width="55" height="55"/> 
+<img src="https://github.com/naresy/naresy/blob/main/developer.gif" alt="Developer Animation" width="400"/>
 
 </div>
 
 ---
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=naresy&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+## 💫 About Me
 
+```dart
+class Developer {
+  final String name = "Naresh Upadhyay";
+  final String focus = "Mobile App Development";
+  final List<String> passions = [
+    "Flutter Development 📱",
+    "Beautiful UI/UX Design 🎨",
+    "Clean Code Architecture 🏗️",
+    "Problem Solving 🧩",
+  ];
+  
+  String currentlyLearning() => "Advanced Flutter Animations & State Management";
+  String funFact() => "Debugging is like being a detective in a crime movie where you're also the murderer! 🔍🐛";
+}
+```
 
 ---
 
+## 🛠️ Tech Stack
 
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
+### **Backend & Database**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=naresy&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naresy&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
- 
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+### **State Management & Architecture**
+![Bloc](https://img.shields.io/badge/Bloc-3DDC84?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white)
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=naresy&style=for-the-badge&color=orange" alt=""/>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naresy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naresy&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naresy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
 
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
+---
 
+## 🏆 GitHub Trophies
 
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=naresy&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
 
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naresy&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+- 📱 Building beautiful cross-platform mobile apps with Flutter
+- 🎨 Mastering advanced UI/UX design patterns
+- 🏗️ Learning clean architecture and best practices
+- 🔥 Contributing to open-source Flutter packages
+- 📚 Sharing knowledge through blog posts and tutorials
+```
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎯 **Project Alpha** | E-commerce mobile app with beautiful UI | Flutter, Firebase, Bloc |
+| 📱 **Project Beta** | Social media platform for developers | Flutter, Node.js, MongoDB |
+| 🎨 **Project Gamma** | Design system & component library | Flutter, Custom Widgets |
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on interesting Flutter projects or discuss mobile development! Feel free to reach out:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naresy/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nareshupadhyay.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.naresh74@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=naresy&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+<div align="center">
+  
+**⭐️ From [naresy](https://github.com/naresy) with ❤️**
+
+*"Code is like humor. When you have to explain it, it's bad!"* 😄
+
+</div>
