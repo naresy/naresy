@@ -69,7 +69,7 @@ class NareshUpadhyay extends Developer {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Data Engineering & Big Data**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -114,7 +114,7 @@ class NareshUpadhyay extends Developer {
 
 ---
 
-##GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
