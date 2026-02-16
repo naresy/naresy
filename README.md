@@ -1,175 +1,245 @@
-<div align="center">
-  
-# Hi, I'm Naresh Upadhyay
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Naresh+Upadhyay;Data+Engineer;Backend+Developer;Mobile+App+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
+</h1>
 
-### Data Engineer | Backend Developer | Mobile App Enthusiast
+<p align="center">
+  <img src="https://github.com/naresy/naresy/blob/main/developer.gif" alt="Developer Animation" width="400"/>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nareshupadhyay.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nareshupadhyay.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-naresy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresy/)
-[![Email](https://img.shields.io/badge/Email-info.naresh74%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.naresh74@gmail.com)
-
-<img src="https://github.com/naresy/naresy/blob/main/developer.gif" alt="Developer Animation" width="400"/>
-
-</div>
+<p align="center">
+  <a href="https://nareshupadhyay.com/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/naresy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:info.naresh74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=naresy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-## About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### About Me
 
 ```dart
 class NareshUpadhyay extends Developer {
   final String role = "Data Engineer";
+  final String location = "Florida, USA";
+  
   final List<String> passions = [
     "Backend Development",
-    "Mobile App Development",
-    "Data Engineering & Analytics",
+    "Mobile App Development", 
+    "Data Engineering",
   ];
   
-  Map<String, List<String>> expertise = {
-    'dataEngineering': ['Dataflow', 'Composer', 'Airflow', 'Pub/Sub'],
-    'backend': ['Python', 'Node.js', 'RESTful APIs', 'Microservices'],
-    'mobile': ['Flutter', 'Dart', 'Cross-platform Apps', 'UI/UX Design'],
-    'databases': ['MySQL', 'PostgreSQL', 'NoSQL', 'SQLite'],
+  final Map<String, List<String>> skills = {
+    'data': ['Spark', 'Kafka', 'Airflow', 'GCP'],
+    'backend': ['Python', 'Node.js', 'APIs'],
+    'mobile': ['Flutter', 'Dart', 'Firebase'],
+    'databases': ['PostgreSQL', 'MongoDB'],
   };
   
-  String myMotto() => 
-    "Data Engineer by profession, Backend & Mobile Developer by passion!";
-  
-  String currentFocus() => 
-    "Building scalable data pipelines while crafting beautiful mobile experiences";
-  
   String funFact() => 
-    "I debug data pipelines in the morning and UI bugs at night!";
+    "Debug data pipelines by day, " +
+    "craft mobile UIs by night!";
 }
 ```
 
-<div align="center">
-
-### The Perfect Blend
-
-**Data Engineering x Backend Development x Mobile Apps = Full Stack Impact**
-
-</div>
+<br/>
 
 ---
 
-## Tech Stack
+## Tech Stack & Tools
 
-### Data Engineering & Big Data
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,dart,flutter,firebase,gcp,aws,docker,kubernetes,postgres,mongodb,mysql,redis,git,github,vscode,postman,linux&perline=9" />
+</p>
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+### Specialized Skills
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+**Data Engineering**
+- Apache Spark
+- Apache Kafka  
+- Apache Airflow
+- Google Cloud Platform
+- ETL Pipelines
+- Data Warehousing
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+**Development**
+- Flutter & Dart
+- Python & FastAPI
+- Node.js & Express
+- REST APIs
+- Microservices
+- Firebase
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naresy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naresy&theme=radical&hide_border=true" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naresy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naresy&theme=tokyonight&hide_border=true" />
+</p>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naresy&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naresy&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=naresy&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&area=true" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naresy&theme=tokyonight" width="96%" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naresy&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true" width="96%" />
+</p>
+
+<details>
+<summary><b>More GitHub Metrics</b></summary>
+<br/>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naresy&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naresy&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naresy&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naresy&theme=tokyonight&utcOffset=8" />
+</p>
+
+</details>
 
 ---
 
 ## Current Focus
 
-**Primary Role:**
-- Building scalable data pipelines and ETL processes
-- Working with Apache Spark, Kafka, and Airflow
-- Designing efficient data architectures and warehouses
-  
-**Side Passions:**
-- Developing robust backend APIs and microservices
-- Creating beautiful cross-platform mobile apps with Flutter
-- Exploring the intersection of data and user experience
-  
-**Currently Learning:**
-- Advanced stream processing with Kafka
-- Cloud-native data engineering on AWS/GCP
-- Flutter state management patterns (BLoC, Riverpod)
+<table align="center">
+<tr>
+<td width="50%">
+
+**Primary Work**
+- Building scalable data pipelines
+- ETL process optimization
+- Real-time stream processing
+- Cloud-native data solutions
+
+</td>
+<td width="50%">
+
+**Side Projects**
+- Flutter mobile applications
+- Backend API development
+- Open-source contributions
+- Technical blog writing
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Featured Projects
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| Data Pipeline Pro | Real-time ETL pipeline processing millions of records | Spark, Kafka, Airflow, AWS |
-| API Gateway Suite | Scalable microservices backend architecture | Node.js, Python, Docker, Redis |
-| Flutter Finance App | Beautiful mobile app for financial tracking | Flutter, Firebase, Bloc |
-| Data Warehouse Builder | Automated data warehouse with analytics | PostgreSQL, Python, dbt |
+### Data Pipeline Pro
+Real-time ETL pipeline processing millions of records daily
 
-</div>
+**Tech:** Apache Spark, Kafka, Airflow, AWS
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### Flutter Finance App
+Beautiful mobile app for financial tracking and analytics
+
+**Tech:** Flutter, Firebase, Bloc, REST APIs
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### API Gateway Suite
+Scalable microservices backend architecture with load balancing
+
+**Tech:** Node.js, Python, Docker, Redis, PostgreSQL
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### Data Warehouse Builder
+Automated data warehouse with analytics and reporting
+
+**Tech:** PostgreSQL, Python, dbt, Apache Airflow
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Let's Connect
+## Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/naresy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://nareshupadhyay.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:info.naresh74@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/naresy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-Whether it's discussing data pipelines, backend architectures, or mobile app development - I'm always excited to connect with fellow developers!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naresy/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nareshupadhyay.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.naresh74@gmail.com)
-
-</div>
+<p align="center">
+  <i>Whether it's data pipelines, backend APIs, or mobile apps - let's build something amazing together!</i>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
 
-### Profile Views
-
-![](https://komarev.com/ghpvc/?username=naresy&style=for-the-badge&color=blueviolet)
-
----
-
-**From [naresy](https://github.com/naresy)**
-
-*"Code is like humor. When you have to explain it, it's bad!"*
-
-</div>
+<p align="center">
+  <b>Made with ❤️ by Naresh Upadhyay</b>
+</p>
